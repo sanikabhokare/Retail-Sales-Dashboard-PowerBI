@@ -27,7 +27,8 @@ This dashboard helps retail managers:
 - Understand customer behavior for targeted marketing
 
 # 🎥 Dashboard Walkthrough
-▶️ [Watch Demo Video](./DASHBOARD.mp4)
+▶️ [Watch Dashboard Demo on Google Drive](https://drive.google.com/file/d/1PoAiL28LDJf9jmsxkAhW4Xg6-vSyh8aG/view?usp=sharing)
+
 
 # 📂 How to Use
 1. Download and open the `.pbix` file in Power BI Desktop
